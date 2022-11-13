@@ -99,34 +99,34 @@
   background-size: cover;
 }
 
-.anfra-nav {
+.anfra-jhjhj {
   padding: 30px 0;
 }
 
-.anfra-nav .navbar-brand {
+.anfra-jhjhj .jhjhjbar-brand {
   padding: 0;
 }
 
-.anfra-nav .navbar-brand .logo-2 {
+.anfra-jhjhj .jhjhjbar-brand .logo-2 {
   display: none;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item {
   padding: 0;
   margin: 0 15px;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item:last-child {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item:last-child {
   margin-right: 0;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .jhjhj-link {
   font-size: 1.5rem;
   font-weight: 500;
   color: #535b66;
@@ -134,7 +134,7 @@
   padding: 0;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .nav-link.nav-button {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .jhjhj-link.jhjhj-button {
   background: #759e2a;
   color: #ffffff;
   border-radius: 30px;
@@ -143,11 +143,11 @@
   line-height: 50px;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-toggle:after {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-toggle:after {
   vertical-align: .15em;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-menu {
   min-width: 150px;
   left: 0;
   padding: 0;
@@ -157,45 +157,45 @@
   transition: all .3s ease;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-menu .nav-item {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-menu .jhjhj-item {
   padding: 4px 15px;
   margin: 0;
 }
 
-.anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-menu .nav-item:hover {
+.anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-menu .jhjhj-item:hover {
   background: rgba(30, 133, 255, 0.1);
 }
 
 @media all and (max-width: 991px) {
-  .anfra-nav .navbar-brand .logo-2 {
+  .anfra-jhjhj .jhjhjbar-brand .logo-2 {
     display: block;
   }
-  .anfra-nav .navbar-brand .main-logo {
+  .anfra-jhjhj .jhjhjbar-brand .main-logo {
     display: none;
   }
 }
 
 @media all and (min-width: 768px) {
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-menu {
     display: block;
     visibility: hidden;
     opacity: 0;
   }
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item:hover .dropdown-menu {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item:hover .dropdown-menu {
     visibility: visible;
     opacity: 1;
   }
 }
 
 @media all and (max-width: 767px) {
-  .anfra-nav .navbar-toggler {
+  .anfra-jhjhj .jhjhjbar-toggler {
     font-size: 2.8rem;
     padding: 0;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
-  .anfra-nav .navbar-collapse {
+  .anfra-jhjhj .jhjhjbar-collapse {
     position: absolute;
     top: 100%;
     left: 0;
@@ -206,26 +206,26 @@
     -webkit-box-shadow: 0px 30px 30px 0px rgba(0, 0, 0, 0.05);
     box-shadow: 0px 30px 30px 0px rgba(0, 0, 0, 0.05);
   }
-  .anfra-nav .navbar-collapse .navbar-nav {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj {
     padding: 25px 15px;
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: flex-start;
   }
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item {
     width: 100%;
     margin-right: 0;
     margin-left: 0;
   }
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item + .nav-item {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item + .jhjhj-item {
     margin-top: 15px;
   }
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item .nav-link.nav-button {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .jhjhj-link.jhjhj-button {
     line-height: 40px;
     max-width: 140px;
     text-align: center;
   }
-  .anfra-nav .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
+  .anfra-jhjhj .jhjhjbar-collapse .jhjhjbar-jhjhj .jhjhj-item .dropdown-menu {
     width: 100%;
   }
 }
@@ -848,7 +848,7 @@
   overflow: hidden;
 }
 
-.ugf-contact .anfra-nav .navbar-brand .logo-2 {
+.ugf-contact .anfra-jhjhj .jhjhjbar-brand .logo-2 {
   display: block;
 }
 
